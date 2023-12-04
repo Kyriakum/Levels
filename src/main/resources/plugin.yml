@@ -1,0 +1,4 @@
+name: Levels
+version: '${project.version}'
+main: com.kyriakum.levels.Levels
+api-version: '1.20'

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Levels:jar">
+    <output-path>$USER_HOME$/OneDrive/Υπολογιστής/kyriakos/serverpaper/plugins</output-path>
+    <root id="archive" name="Levels.jar">
+      <element id="module-output" name="Levels" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
